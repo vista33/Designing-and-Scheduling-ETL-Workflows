@@ -71,8 +71,7 @@ Build an automated ETL workflow that:
 ---
 
 ## 🧩 Assignment Steps
-
-### 1. DAG Configuration (20 Points)
+DAG Configuration
 **File:** `/airflow/dags/postgres_to_mysql_etl.py`
 
 | Parameter | Value |
