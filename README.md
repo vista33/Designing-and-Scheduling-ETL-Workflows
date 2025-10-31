@@ -70,6 +70,7 @@ Build an automated ETL workflow that:
 
 ---
 **Display in Apache Airflow**
+
 <img width="610" height="415" alt="image" src="https://github.com/user-attachments/assets/54e916c1-a467-475a-b1fd-96c1cb18e7ce" />
 
 
